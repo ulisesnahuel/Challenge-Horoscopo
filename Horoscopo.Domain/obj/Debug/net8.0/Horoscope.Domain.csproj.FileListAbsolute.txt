@@ -1,0 +1,11 @@
+N:\Proyectos\NET\Horoscopo\Horoscopo.Domain\bin\Debug\net8.0\Horoscope.Domain.deps.json
+N:\Proyectos\NET\Horoscopo\Horoscopo.Domain\bin\Debug\net8.0\Horoscope.Domain.dll
+N:\Proyectos\NET\Horoscopo\Horoscopo.Domain\bin\Debug\net8.0\Horoscope.Domain.pdb
+N:\Proyectos\NET\Horoscopo\Horoscopo.Domain\obj\Debug\net8.0\Horoscope.Domain.GeneratedMSBuildEditorConfig.editorconfig
+N:\Proyectos\NET\Horoscopo\Horoscopo.Domain\obj\Debug\net8.0\Horoscope.Domain.AssemblyInfoInputs.cache
+N:\Proyectos\NET\Horoscopo\Horoscopo.Domain\obj\Debug\net8.0\Horoscope.Domain.AssemblyInfo.cs
+N:\Proyectos\NET\Horoscopo\Horoscopo.Domain\obj\Debug\net8.0\Horoscope.Domain.csproj.CoreCompileInputs.cache
+N:\Proyectos\NET\Horoscopo\Horoscopo.Domain\obj\Debug\net8.0\Horoscope.Domain.dll
+N:\Proyectos\NET\Horoscopo\Horoscopo.Domain\obj\Debug\net8.0\refint\Horoscope.Domain.dll
+N:\Proyectos\NET\Horoscopo\Horoscopo.Domain\obj\Debug\net8.0\Horoscope.Domain.pdb
+N:\Proyectos\NET\Horoscopo\Horoscopo.Domain\obj\Debug\net8.0\ref\Horoscope.Domain.dll

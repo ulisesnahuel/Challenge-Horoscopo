@@ -1,0 +1,11 @@
+N:\Proyectos\NET\Horoscopo\Horoscopo.Application\bin\Debug\net8.0\Horoscope.Application.deps.json
+N:\Proyectos\NET\Horoscopo\Horoscopo.Application\bin\Debug\net8.0\Horoscope.Application.dll
+N:\Proyectos\NET\Horoscopo\Horoscopo.Application\bin\Debug\net8.0\Horoscope.Application.pdb
+N:\Proyectos\NET\Horoscopo\Horoscopo.Application\obj\Debug\net8.0\Horoscope.Application.GeneratedMSBuildEditorConfig.editorconfig
+N:\Proyectos\NET\Horoscopo\Horoscopo.Application\obj\Debug\net8.0\Horoscope.Application.AssemblyInfoInputs.cache
+N:\Proyectos\NET\Horoscopo\Horoscopo.Application\obj\Debug\net8.0\Horoscope.Application.AssemblyInfo.cs
+N:\Proyectos\NET\Horoscopo\Horoscopo.Application\obj\Debug\net8.0\Horoscope.Application.csproj.CoreCompileInputs.cache
+N:\Proyectos\NET\Horoscopo\Horoscopo.Application\obj\Debug\net8.0\Horoscope.Application.dll
+N:\Proyectos\NET\Horoscopo\Horoscopo.Application\obj\Debug\net8.0\refint\Horoscope.Application.dll
+N:\Proyectos\NET\Horoscopo\Horoscopo.Application\obj\Debug\net8.0\Horoscope.Application.pdb
+N:\Proyectos\NET\Horoscopo\Horoscopo.Application\obj\Debug\net8.0\ref\Horoscope.Application.dll

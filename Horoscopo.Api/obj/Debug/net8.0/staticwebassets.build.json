@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E7zxGFt0iNe/tR7Vn3HZXfQzYJeK2DsQaxk5FpNeLjA=",
+  "Source": "Horoscope.Api",
+  "BasePath": "_content/Horoscope.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

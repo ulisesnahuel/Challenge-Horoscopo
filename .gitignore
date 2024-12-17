@@ -1,0 +1,13 @@
+# Ignorar archivos y carpetas de configuración del IDE
+.vscode/
+.idea/
+
+# Ignorar archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de logs y temporales
+*.log
+*.tmp
+
+.dockerignore
