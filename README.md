@@ -1,5 +1,6 @@
-# Recursiva-Challenge-Horóscopo  
-Esta aplicación es un horóscopo que consta de un backend en .NET 8, un frontend en React con Node.js, TypeScript y Vite, y utiliza MySQL para la persistencia de datos.  
+# Recursiva-Challenge-Horóscopo
+Encuentra tu horóscopo basado en tu signo zodiacal. El objetivo de la aplicación es, a partir de los datos ingresados por el usuario , mostrar el horóscopo del día actual, según corresponda, el signo del usuario de una manera personalizada,
+incluyendo un saludo e informando la cantidad de días que restan para su próximo cumpleaños.
 
 ## Tecnologías 
 - **Backend**: .NET 8 
